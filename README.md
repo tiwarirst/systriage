@@ -70,7 +70,7 @@ The tool produces:
 
 ```powershell
 # Clone or download the repository
-git clone https://github.com/tiwarirst/SysTriage.git
+git clone https://github.com/tiwarirst/systriage.git
 cd SysTriage
 
 # Run a full triage (elevated PowerShell window recommended)

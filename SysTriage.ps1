@@ -56,7 +56,6 @@
 
 .NOTES
     Tool        : SysTriage v1.0
-    Author      : Techienerd
     Category    : Incident Response / Endpoint Forensics
     Platform    : Windows (PowerShell 5.1+ or PowerShell 7+)
     Privileges  : Administrator recommended — some surfaces require elevation.
